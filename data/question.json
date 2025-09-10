@@ -1,0 +1,455 @@
+[
+    {
+        "context_id": 0,
+        "data": [
+            {
+                "question": "Tôi là chủ nhiệm một đề tài cấp Bộ, vậy mức thù lao tối đa một tháng của tôi được nhận là bao nhiêu?",
+                "answer": "Theo Điều 4, khoản 2 của Quy định, mức thù lao tối đa cho chủ nhiệm nhiệm vụ khoa học và công nghệ cấp Bộ là không quá 30.000.000 đồng/người/tháng."
+            },
+            {
+                "question": "Tôi là thành viên chính của một dự án cấp Bộ, mức thù lao tối đa một tháng của tôi được tính như thế nào?",
+                "answer": "Theo Điều 4, khoản 2 của Quy định, mức thù lao tối đa cho các chức danh khác, bao gồm cả thành viên chính, là không quá 0,8 lần mức chi của chủ nhiệm nhiệm vụ. Chủ nhiệm nhiệm vụ cấp Bộ thì thù lao tối đa là 30 triệu, vậy thù lao của bạn sẽ tính toán dựa trên con số này."
+            },
+            {
+                "question": "Công ty tôi có thể thuê chuyên gia trong nước cho đề tài, mức chi cho chuyên gia này được quy định như thế nào?",
+                "answer": "Theo Điều 4, khoản 5, điểm b, mức chi thuê chuyên gia trong nước được quy định theo bậc chuyên gia. Ví dụ, chuyên gia bậc I trở lên mức thuê không quá 30.000.000 đồng/tháng, chuyên gia bậc II trở lên là 20.000.000 đồng/tháng, và chuyên gia bậc III trở lên là 15.000.000 đồng/tháng. Tuy nhiên, tổng dự toán kinh phí thuê chuyên gia trong nước không quá 30% tổng dự toán chi tiền thù lao."
+            },
+            {
+                "question": "Tôi muốn thuê chuyên gia nước ngoài cho đề tài, vậy mức chi và giới hạn kinh phí thuê chuyên gia được quy định như thế nào?",
+                "answer": "Theo Điều 4, khoản 5, điểm c, tổ chức chủ trì cần thuyết minh rõ sự cần thiết và kết quả của việc thuê chuyên gia. Tổng dự toán kinh phí chi thuê chuyên gia nước ngoài không quá 50% tổng dự toán chi tiền thù lao. Thủ trưởng cơ quan chịu trách nhiệm về nội dung và mức kinh phí thuê chuyên gia nước ngoài."
+            },
+            {
+                "question": "Mức chi thù lao cho thành viên tham gia Hội đồng tư vấn xác định nhiệm vụ khoa học cấp Bộ được quy định ra sao?",
+                "answer": "Theo Điều 4, khoản 10, điểm a, Chủ tịch Hội đồng được chi tối đa 1.200.000 đồng/buổi, Phó Chủ tịch và thành viên hội đồng là 800.000 đồng/buổi, Thư ký khoa học là 250.000 đồng/buổi và thư ký hành chính là 250.000 đồng/buổi. Ngoài ra, ủy viên phản biện được 400.000 đồng/phiếu nhận xét đánh giá."
+            },
+            {
+                "question": "Tổ chức tôi được phép chi bao nhiêu tiền cho công tác quản lý chung một đề tài cấp Bộ?",
+                "answer": "Theo Điều 4, khoản 9, dự toán kinh phí quản lý chung nhiệm vụ khoa học và công nghệ cấp Bộ bằng 5% tổng dự toán kinh phí thực hiện nhiệm vụ khoa học và công nghệ có sử dụng ngân sách nhà nước, nhưng tối đa không quá 250 triệu đồng/nhiệm vụ."
+            },
+            {
+                "question": "Theo Thông tư, đối tượng nào sau đây không thuộc đối tượng áp dụng của quy định về quản lý nhiệm vụ KHCN cấp bộ? \n A. Cơ quan nhà nước hoạt động KHCN. \n B. Tổ chức, cá nhân hoạt động KHCN. \n C. Tổ chức, cá nhân khác có liên quan. \n D. Tổ chức, cá nhân thuộc Bộ thực hiện nhiệm vụ KHCN cấp cơ sở.",
+                "answer": "D"
+            },
+            {
+                "question": "Ai là người được Bộ Nông nghiệp và Môi trường giao chủ trì thực hiện nhiệm vụ KHCN? \n A. Cơ quan chủ quản nhiệm vụ KHCN. \n B. Chủ nhiệm nhiệm vụ KHCN. \n C. Tổ chức chủ trì nhiệm vụ KHCN. \n D. Vụ trưởng Vụ Khoa học và Công nghệ.",
+                "answer": "C"
+            },
+            {
+                "question": "Theo Thông tư, một nhiệm vụ bao gồm một số đề tài, dự án SXTN, dự án đầu tư KHCN có mục tiêu, nội dung gắn kết hữu cơ, đồng bộ được gọi là gì? \n A. Chương trình KHCN cấp bộ. \n B. Dự án KHCN cấp bộ. \n C. Đề án KHCN cấp bộ. \n D. Đề tài KHCN cấp bộ.",
+                "answer": "B"
+            },
+            {
+                "question": "Hình thức họp nào sau đây không được phép sử dụng trong quản lý hoạt động KHCN theo Thông tư? \n A. Họp trực tiếp. \n B. Họp trực tuyến. \n C. Họp trực tiếp kết hợp với trực tuyến. \n D. Họp kín, chỉ có các thành viên tham gia.",
+                "answer": "D"
+            },
+            {
+                "question": "Ai có quyền quyết định thành lập Hội đồng tư vấn xác định nhiệm vụ KHCN theo Thông tư? \n A. Vụ trưởng Vụ Khoa học và Công nghệ. \n B. Lãnh đạo Bộ. \n C. Hội đồng tư vấn. \n D. Tổ chức chủ trì nhiệm vụ KHCN.",
+                "answer": "B"
+            },
+            {
+                "question": "Theo Thông tư, thành phần Hội đồng tư vấn bao gồm tối thiểu bao nhiêu thành viên? \n A. 5. \n B. 7. \n C. 9. \n D. 11.",
+                "answer": "B"
+            },
+            {
+                "question": "Trong trường hợp nào thì một cá nhân không được tham gia Hội đồng tư vấn theo quy định của Thông tư? \n A. Chủ nhiệm nhiệm vụ và các thành viên có tên trong Thuyết minh nhiệm vụ KHCN đăng ký tuyển chọn, giao trực tiếp. \n B. Người có chuyên môn phù hợp. \n C. Đại diện hiệp hội. \n D. Nhà khoa học.",
+                "answer": "A"
+            },
+            {
+                "question": "Theo Thông tư, nguyên tắc làm việc nào sau đây không phải là nguyên tắc làm việc của Hội đồng tư vấn, Tổ thẩm định? \n A. Tập trung dân chủ. \n B. Tuân thủ đạo đức nghề nghiệp. \n C. Bảo mật tuyệt đối thông tin. \n D. Độc lập, trung thực, khách quan, khoa học.",
+                "answer": "C"
+            },
+            {
+                "question": "Theo Thông tư, để một kết luận của Hội đồng được thông qua thì cần bao nhiêu thành viên dự họp nhất trí? \n A. Ít nhất 1/2. \n B. Ít nhất 2/3. \n C. Ít nhất 3/4. \n D. Tất cả thành viên.",
+                "answer": "C"
+            },
+            {
+                "question": "Tài liệu phục vụ họp Hội đồng, Tổ thẩm định được cập nhật ở đâu trước phiên họp? \n A. Trên trang web của Bộ. \n B. Trên Hệ thống quản lý KHCN của Bộ. \n C. Gửi qua email cho các thành viên. \n D. Tại phòng họp.",
+                "answer": "B"
+            },
+            {
+                "question": "Theo Thông tư, yêu cầu nào sau đây không phải là yêu cầu đối với nhiệm vụ KHCN cấp bộ? \n A. Có tính cấp thiết. \n B. Trùng lặp với các nhiệm vụ KHCN khác. \n C. Không vi phạm quy định về sở hữu trí tuệ. \n D. Có mục tiêu, sản phẩm rõ ràng.",
+                "answer": "B"
+            },
+            {
+                "question": "Tổ chức, cá nhân đề xuất đặt hàng nhiệm vụ KHCN thông qua đâu? \n A. Gửi trực tiếp đến Bộ. \n B. Hệ thống quản lý văn bản của Bộ. \n C. Hệ thống quản lý KHCN của Bộ. \n D. Báo cáo lên cấp trên trực tiếp.",
+                "answer": "C"
+            },
+            {
+                "question": "Thời gian nhận hồ sơ tuyển chọn, giao trực tiếp nhiệm vụ KHCN tối thiểu là bao nhiêu ngày kể từ thời điểm thông báo? \n A. 10 ngày. \n B. 15 ngày. \n C. 20 ngày. \n D. 30 ngày.",
+                "answer": "C"
+            },
+            {
+                "question": "Trong trường hợp Hệ thống quản lý KHCN của Bộ gặp sự cố kỹ thuật, hồ sơ đề xuất đặt hàng sẽ được gửi qua đâu trước? \n A. Gửi trực tiếp đến Bộ. \n B. Hệ thống quản lý văn bản và hồ sơ điện tử của Bộ. \n C. Email của Vụ Khoa học và Công nghệ. \n D. Chờ đến khi hệ thống hoạt động lại.",
+                "answer": "B"
+            },
+            {
+                "question": "Ai có trách nhiệm tổng hợp trình Lãnh đạo Bộ ký quyết định phê duyệt danh mục nhiệm vụ KHCN? \n A. Hội đồng tư vấn xác định nhiệm vụ. \n B. Vụ Khoa học và Công nghệ. \n C. Tổ chức chủ trì đề xuất. \n D. Chủ nhiệm nhiệm vụ.",
+                "answer": "B"
+            },
+            {
+                "question": "Hồ sơ đăng ký tuyển chọn, giao trực tiếp nhiệm vụ KHCN được nộp ở đâu? \n A. Nộp trực tiếp tại Bộ. \n B. Nộp qua đường bưu điện. \n C. Thông qua Hệ thống quản lý KHCN của Bộ. \n D. Gửi email cho Vụ Khoa học và Công nghệ.",
+                "answer": "C"
+            },
+            {
+                "question": "Trong thời hạn bao lâu kể từ ngày kết thúc thời gian đăng ký, Vụ Khoa học và Công nghệ phải mở, xác nhận tính hợp lệ của hồ sơ? \n A. 1 ngày. \n B. 2 ngày. \n C. 3 ngày. \n D. 5 ngày.",
+                "answer": "B"
+            },
+            {
+                "question": "Nếu hồ sơ không hợp lệ, trong thời hạn bao lâu Vụ Khoa học và Công nghệ phải thông báo lý do? \n A. 1 ngày. \n B. 2 ngày. \n C. 3 ngày. \n D. 5 ngày.",
+                "answer": "A"
+            },
+            {
+                "question": "Theo Thông tư, tổ chức đăng ký tham gia tuyển chọn, giao trực tiếp chủ trì nhiệm vụ KHCN phải có điều kiện gì? \n A. Có tư cách pháp nhân. \n B. Có chức năng phù hợp với yêu cầu của nhiệm vụ. \n C. Không thuộc trường hợp không đủ điều kiện. \n D. Tất cả các đáp án trên.",
+                "answer": "D"
+            },
+            {
+                "question": "Theo Thông tư, cá nhân đăng ký tham gia tuyển chọn, giao trực tiếp làm chủ nhiệm nhiệm vụ phải có trình độ như thế nào? \n A. Tốt nghiệp THPT. \n B. Đại học trở lên. \n C. Thạc sĩ trở lên. \n D. Tiến sĩ.",
+                "answer": "B"
+            },
+            {
+                "question": "Một cá nhân không đủ điều kiện đăng ký tham gia tuyển chọn làm chủ nhiệm nếu đang làm chủ nhiệm bao nhiêu nhiệm vụ KHCN cấp bộ trong thời gian thực hiện theo hợp đồng? \n A. 0. \n B. 1. \n C. 2. \n D. 3.",
+                "answer": "B"
+            },
+            {
+                "question": "Hồ sơ trúng tuyển được đánh giá như thế nào? \n A. Đạt điểm trung bình cao nhất. \n B. Đạt từ 70/100 điểm trở lên. \n C. Không có tiêu chí nào có quá 1/4 số thành viên cho điểm không (0 điểm). \n D. Tất cả các đáp án trên.",
+                "answer": "D"
+            },
+            {
+                "question": "Trong trường hợp các hồ sơ có điểm trung bình bằng nhau, ưu tiên theo thứ tự nào sau đây? \n A. Ưu tiên hồ sơ có số kinh phí đề xuất từ ngân sách nhà nước ít hơn. \n B. Ưu tiên tổ chức chủ trì hoặc chủ nhiệm nhiệm vụ đã có nhiệm vụ cấp bộ được đánh giá xếp loại xuất sắc. \n C. Ưu tiên hồ sơ có điểm trung bình về nội dung và phương án triển khai nhiệm vụ cao hơn. \n D. Tất cả các đáp án trên.",
+                "answer": "D"
+            },
+            {
+                "question": "Trong thời hạn bao lâu, tổ chức chủ trì và chủ nhiệm nhiệm vụ phải hoàn thiện hồ sơ theo Biên bản họp của Tổ thẩm định? \n A. 5 ngày. \n B. 7 ngày. \n C. 10 ngày. \n D. 15 ngày.",
+                "answer": "B"
+            },
+            {
+                "question": "Theo Thông tư, mã số được gắn đối với từng nhiệm vụ KHCN theo quy định tại Mẫu nào? \n A. Mẫu 01. \n B. Mẫu 02. \n C. Mẫu 03. \n D. Mẫu 04.",
+                "answer": "A"
+            },
+            {
+                "question": "Trong thời hạn bao lâu kể từ ngày Quyết định phê duyệt nhiệm vụ KHCN cấp bộ được ban hành, Vụ Khoa học và Công nghệ phải thông báo công khai kết quả tuyển chọn? \n A. 7 ngày. \n B. 10 ngày. \n C. 15 ngày. \n D. 30 ngày.",
+                "answer": "C"
+            },
+            {
+                "question": "Ai sẽ ký hợp đồng thực hiện nhiệm vụ KHCN với tổ chức chủ trì là các đơn vị được giao dự toán sử dụng ngân sách thuộc Bộ? \n A. Bộ trưởng. \n B. Vụ trưởng Vụ Khoa học và Công nghệ. \n C. Vụ Khoa học và Công nghệ thừa lệnh Bộ trưởng. \n D. Văn phòng Bộ.",
+                "answer": "C"
+            },
+            {
+                "question": "Trong trường hợp nào thì Vụ Khoa học và Công nghệ sẽ báo cáo Bộ xem xét, hủy kết quả tuyển chọn? \n A. Có hành vi giả mạo trong hồ sơ. \n B. Vi phạm các điều kiện. \n C. Tổ chức chủ trì đề nghị không thực hiện nhiệm vụ. \n D. Tất cả các đáp án trên.",
+                "answer": "D"
+            },
+            {
+                "question": "Tổ chức chủ trì nhiệm vụ KHCN có trách nhiệm báo cáo kết quả thực hiện theo Mẫu nào? \n A. Mẫu 30. \n B. Mẫu 31. \n C. Mẫu 34. \n D. Mẫu 35.",
+                "answer": "C"
+            },
+            {
+                "question": "Định kỳ kiểm tra, đánh giá các đề tài, đề án, dự án SXTN là bao lâu một lần? \n A. 6 tháng một lần. \n B. 1 năm một lần. \n C. 2 năm một lần. \n D. Tùy theo quyết định của Bộ trưởng.",
+                "answer": "B"
+            },
+            {
+                "question": "Việc điều chỉnh thời gian thực hiện nhiệm vụ KHCN chỉ được xem xét trước khi kết thúc hợp đồng bao nhiêu ngày? \n A. 15 ngày. \n B. 20 ngày. \n C. 30 ngày. \n D. 60 ngày.",
+                "answer": "C"
+            },
+            {
+                "question": "Việc điều chỉnh thời gian thực hiện, thời gian điều chỉnh không quá bao nhiêu tháng đối với nhiệm vụ KHCN có thời gian thực hiện từ 24 tháng trở lên? \n A. 6 tháng. \n B. 9 tháng. \n C. 12 tháng. \n D. 18 tháng.",
+                "answer": "C"
+            },
+            {
+                "question": "Trong các trường hợp sau, trường hợp nào không được phép điều chỉnh? \n A. Điều chỉnh tên nhiệm vụ. \n B. Điều chỉnh mục tiêu nhiệm vụ. \n C. Điều chỉnh nội dung nhiệm vụ. \n D. Điều chỉnh phương thức thực hiện, đối với nhiệm vụ thực hiện theo phương thức khoán đến sản phẩm cuối cùng.",
+                "answer": "D"
+            },
+            {
+                "question": "Trong trường hợp nào thì thay đổi chủ nhiệm nhiệm vụ được phép thực hiện? \n A. Chủ nhiệm nhiệm vụ đi học tập, công tác dài hạn trên 06 tháng liên tục. \n B. Chủ nhiệm nhiệm vụ bị ốm đau, bệnh tật không có khả năng điều hành hoạt động nghiên cứu của nhiệm vụ. \n C. Chủ nhiệm nhiệm vụ có văn bản đề nghị thay đổi chủ nhiệm nhiệm vụ. \n D. Tất cả các đáp án trên.",
+                "answer": "D"
+            },
+            {
+                "question": "Ai là người sẽ xem xét, quyết định điều chỉnh các nội dung liên quan đến nhiệm vụ KHCN theo quy định tại Thông tư? \n A. Tổ chức chủ trì. \n B. Bộ. \n C. Hội đồng. \n D. Vụ Khoa học và Công nghệ.",
+                "answer": "B"
+            },
+            {
+                "question": "Vụ Khoa học và Công nghệ sẽ xem xét, quyết định điều chỉnh các nội dung nào liên quan đến nhiệm vụ KHCN? \n A. Tổ chức chủ trì, thời gian thực hiện. \n B. Tên, mục tiêu, nội dung. \n C. Sản phẩm, kinh phí. \n D. Tất cả các đáp án trên.",
+                "answer": "D"
+            },
+            {
+                "question": "Chấm dứt hợp đồng thực hiện nhiệm vụ KHCN trong trường hợp nào? \n A. Hai bên đồng ý chấm dứt hợp đồng trước thời hạn. \n B. Tổ chức chủ trì nhiệm vụ bị đình chỉ thực hiện nhiệm vụ KHCN. \n C. Tổ chức chủ trì nhiệm vụ không nộp hồ sơ nghiệm thu. \n D. Tất cả các đáp án trên.",
+                "answer": "D"
+            },
+            {
+                "question": "Trong trường hợp chấm dứt hợp đồng trước thời hạn, hồ sơ đề nghị chấm dứt hợp đồng gồm những gì? \n A. Văn bản giải trình của tổ chức chủ trì nhiệm vụ. \n B. Hợp đồng thực hiện, thuyết minh nhiệm vụ KHCN đã ký. \n C. Báo cáo nội dung, tiến độ thực hiện, báo cáo sản phẩm và báo cáo tình hình sử dụng kinh phí. \n D. Tất cả các đáp án trên.",
+                "answer": "D"
+            },
+            {
+                "question": "Thời hạn nộp hồ sơ nghiệm thu là bao lâu kể từ khi kết thúc hợp đồng hoặc thời điểm được gia hạn? \n A. 15 ngày. \n B. 20 ngày. \n C. 30 ngày. \n D. 45 ngày.",
+                "answer": "C"
+            },
+            {
+                "question": "Hồ sơ nghiệm thu nhiệm vụ KHCN cấp bộ gồm những gì? \n A. Công văn đề nghị nghiệm thu của đơn vị. \n B. Báo cáo đánh giá kết quả thực hiện nhiệm vụ của tổ chức chủ trì. \n C. Báo cáo tổng kết. \n D. Tất cả các đáp án trên.",
+                "answer": "D"
+            },
+            {
+                "question": "Phiên họp hội đồng nghiệm thu được tổ chức trong thời hạn bao lâu kể từ ngày có quyết định thành lập hội đồng? \n A. 15 ngày. \n B. 20 ngày. \n C. 30 ngày. \n D. 45 ngày.",
+                "answer": "C"
+            },
+            {
+                "question": "Tổ chức chủ trì thực hiện và cá nhân chủ nhiệm nhiệm vụ KHCN hoàn thiện hồ sơ theo ý kiến, kết luận của Hội đồng đánh giá nghiệm thu và gửi cho ai? \n A. Bộ trưởng. \n B. Vụ Khoa học và Công nghệ. \n C. Tổ chức chủ trì. \n D. Hội đồng.",
+                "answer": "B"
+            },
+            {
+                "question": "Đối với nhiệm vụ KHCN được đánh giá xếp loại ở mức “Đạt” trở lên, trong thời hạn bao nhiêu ngày, tổ chức chủ trì và chủ nhiệm nhiệm vụ hoàn thiện hồ sơ? \n A. 5 ngày. \n B. 7 ngày. \n C. 10 ngày. \n D. 15 ngày.",
+                "answer": "C"
+            },
+            {
+                "question": "Tổ chức chủ trì và chủ nhiệm nhiệm vụ có kết quả thực hiện nhiệm vụ bị đánh giá ở mức “Không đạt” sẽ bị xử lý thế nào? \n A. Không đủ điều kiện đăng ký xét giao trực tiếp hoặc tuyển chọn nhiệm vụ. \n B. Phải hoàn trả kinh phí. \n C. Bị phê bình. \n D. Tất cả các đáp án trên.",
+                "answer": "A"
+            },
+            {
+                "question": "Trong thời hạn bao lâu sau khi hoàn thành việc đăng ký và lưu giữ kết quả, tổ chức chủ trì nộp hồ sơ đề nghị công nhận kết quả? \n A. 3 ngày. \n B. 5 ngày. \n C. 7 ngày. \n D. 10 ngày.",
+                "answer": "B"
+            },
+            {
+                "question": "Ai sẽ trình Bộ trưởng quyết định công nhận kết quả? \n A. Cục trưởng Cục Thông tin, Thống kê. \n B. Cục trưởng Cục Chuyển đổi số. \n C. Vụ trưởng Vụ Khoa học và Công nghệ. \n D. Tổ chức chủ trì.",
+                "answer": "C"
+            },
+            {
+                "question": "Trước ngày nào hằng năm, các tổ chức chủ trì có trách nhiệm gửi Báo cáo tổng hợp về nhiệm vụ KHCN đang tiến hành trong năm? \n A. 15 tháng 10. \n B. 30 tháng 10. \n C. 15 tháng 11. \n D. 30 tháng 11.",
+                "answer": "D"
+            },
+            {
+                "question": "Thời gian báo cáo về ứng dụng kết quả thực hiện nhiệm vụ KHCN là bao lâu một lần, tính từ ngày nhiệm vụ được nghiệm thu chính thức? \n A. 6 tháng một lần. \n B. 12 tháng một lần. \n C. 2 năm một lần. \n D. 3 năm một lần.",
+                "answer": "B"
+            },
+            {
+                "question": "Thông tư này của Bộ Nông nghiệp và Môi trường quy định về quản lý nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Thông tư này chỉ áp dụng cho các nhiệm vụ khoa học và công nghệ cấp bộ.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Cơ quan chủ quản nhiệm vụ KHCN là Bộ Tài chính.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Tổ chức chủ trì nhiệm vụ KHCN là tổ chức được Bộ Nông nghiệp và Môi trường giao chủ trì thực hiện nhiệm vụ KHCN.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Chủ nhiệm nhiệm vụ KHCN cấp cơ sở do Bộ trưởng Bộ Nông nghiệp và Môi trường bổ nhiệm.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Chương trình KHCN cấp bộ có thể bao gồm các đề tài KHCN, dự án sản xuất thử nghiệm, dự án KHCN.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Họp hội đồng trực tuyến là phương thức họp thông qua môi trường mạng.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Chữ ký số có giá trị pháp lý tương đương với chữ ký trực tiếp.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Hội đồng tư vấn xác định nhiệm vụ KHCN do Vụ trưởng Vụ Khoa học và Công nghệ thành lập.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Chủ nhiệm và các thành viên có tên trong Thuyết minh nhiệm vụ KHCN không được tham gia Hội đồng.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Hội đồng làm việc theo nguyên tắc tập trung dân chủ, tuân thủ đạo đức nghề nghiệp, độc lập, trung thực, khách quan, khoa học và bảo đảm liêm chính khoa học.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Kết luận của Hội đồng được thông qua khi có ít nhất 3/4 số thành viên dự họp nhất trí thông qua.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Nhiệm vụ KHCN cấp bộ phải có tính cấp thiết và đáp ứng yêu cầu thực tiễn sản xuất.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Đề xuất đặt hàng nhiệm vụ KHCN được thực hiện thông qua Hệ thống quản lý KHCN của Bộ và trong trường hợp gặp sự cố kỹ thuật, gửi qua đường bưu điện.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Thời gian nhận hồ sơ tuyển chọn tối thiểu 20 ngày kể từ thời điểm thông báo.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Hồ sơ đăng ký phải sử dụng phông chữ tiếng Việt của bộ mã ký tự Unicode.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Tổ chức đăng ký tham gia tuyển chọn, giao trực tiếp chủ trì nhiệm vụ KHCN phải có tư cách pháp nhân.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Cá nhân đăng ký làm chủ nhiệm nhiệm vụ phải có trình độ cử nhân trở lên.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Một trong những điều kiện để cá nhân làm chủ nhiệm nhiệm vụ là không thuộc trường hợp bị xử lý kỷ luật từ khiển trách trở lên.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Hồ sơ trúng tuyển phải đạt từ 70/100 điểm trở lên và không có tiêu chí nào có quá 1/4 số thành viên Hội đồng cho điểm không (0 điểm).",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Hồ sơ của tổ chức chủ trì là tổ chức đề xuất nhiệm vụ, nếu đạt điểm trung bình từ 70/100 điểm, sẽ được cộng thêm 5% điểm trung bình.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Vụ Khoa học và Công nghệ thừa lệnh Bộ trưởng ký thông báo kết quả tuyển chọn, giao trực tiếp.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Tổ chức chủ trì và chủ nhiệm nhiệm vụ phải hoàn thiện hồ sơ theo Biên bản họp của Tổ thẩm định, giải trình chi tiết ý kiến của Tổ thẩm định và gửi về Bộ trong thời hạn 7 ngày.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Mã số được gắn đối với từng nhiệm vụ KHCN theo quy định tại Mẫu 01 ban hành kèm theo Thông tư này.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Vụ Khoa học và Công nghệ sẽ đăng tải kết quả tuyển chọn trên Hệ thống quản lý KHCN của Bộ tối thiểu 30 ngày.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Vụ Khoa học và Công nghệ có thể hủy kết quả tuyển chọn nếu tổ chức chủ trì đề nghị không thực hiện nhiệm vụ.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Tổ chức chủ trì nhiệm vụ KHCN phải báo cáo kết quả thực hiện trước ngày 31 tháng 6 và 31 tháng 12 hằng năm.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Kiểm tra, đánh giá đột xuất có thể được thực hiện nếu có khiếu nại, tố cáo.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Việc điều chỉnh thời gian thực hiện nhiệm vụ KHCN chỉ được xem xét trước khi kết thúc hợp đồng ít nhất 15 ngày.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Việc điều chỉnh tên, mục tiêu, nội dung, sản phẩm, kinh phí thực hiện nhiệm vụ KHCN thực hiện theo phương thức khoán sản phẩm cuối cùng là không được phép.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Thay đổi chủ nhiệm nhiệm vụ chỉ được thực hiện trong trường hợp chủ nhiệm nhiệm vụ đi học tập, công tác dài hạn trên 03 tháng liên tục.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Thay đổi thành viên chính, chuyên gia thực hiện nhiệm vụ nếu vi phạm nguyên tắc quản lý tài chính theo kết luận của đoàn kiểm tra, thanh tra là một trong những trường hợp được phép.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Bộ xem xét, quyết định điều chỉnh các nội dung quy định tại các khoản 1, 2, 3, 4, điểm a khoản 6 Điều 15 Thông tư này.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Tổ chức chủ trì có thể tự điều chỉnh các nội dung theo quy định tại các khoản 5, điểm b khoản 6 và khoản 7 Điều 15 Thông tư này.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Việc chấm dứt hợp đồng có thể xảy ra nếu tổ chức chủ trì nhiệm vụ không nộp hồ sơ để đánh giá, nghiệm thu nhiệm vụ KHCN.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Hồ sơ nghiệm thu nhiệm vụ bao gồm báo cáo tóm tắt theo Mẫu 43 ban hành kèm theo Thông tư này.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Tổ chức, cá nhân chủ trì nhiệm vụ nộp hồ sơ đề nghị đánh giá, nghiệm thu trong thời hạn 15 ngày kể từ khi kết thúc hợp đồng hoặc thời điểm được gia hạn hợp đồng.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Hội đồng tư vấn đánh giá, nghiệm thu kết quả được thực hiện theo quy định tại Điều 5 và Điều 6 Thông tư này.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Vụ Khoa học và Công nghệ sẽ gửi biên bản họp của Hội đồng cho tổ chức chủ trì trong thời hạn 3 ngày sau khi kết thúc phiên họp.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Trong thời hạn 10 ngày kể từ khi có kết quả đánh giá cấp bộ, tổ chức chủ trì thực hiện hoàn thiện hồ sơ theo ý kiến, kết luận của Hội đồng đánh giá nghiệm thu và gửi Vụ Khoa học và Công nghệ.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Nhiệm vụ được quyết toán và thanh lý hợp đồng sau khi các sản phẩm của nhiệm vụ được hình thành và tài sản đã mua sắm được kiểm kê và bàn giao.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Tổ chức chủ trì và chủ nhiệm nhiệm vụ có kết quả thực hiện nhiệm vụ bị đánh giá ở mức “Không đạt” không đủ điều kiện đăng ký xét giao trực tiếp hoặc tuyển chọn nhiệm vụ.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Việc công bố thông tin và ứng dụng kết quả thực hiện nhiệm vụ KHCN thực hiện theo quy định tại Thông tư số 14/2014/TT-BKHCN.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Hằng năm, tổ chức chủ trì nhiệm vụ KHCN tổ chức hội nghị phổ biến kết quả nghiên cứu, chuyển giao trong năm.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Việc kiểm tra, đánh giá, xử lý kết quả kiểm tra, đánh giá; chấm dứt hợp đồng thực hiện nhiệm vụ cấp cơ sở thực hiện theo quy định tại Điều 14 và Điều 15 Thông tư này.",
+                "answer": "Sai"
+            },
+            {
+                "question": "Thủ trưởng đơn vị trực thuộc Bộ được giao nhiệm vụ công bố công khai kết quả phê duyệt tổ chức chủ trì, cá nhân chủ nhiệm nhiệm vụ KHCN cấp cơ sở trên cổng thông tin điện tử của đơn vị và cổng thông tin điện tử của Bộ.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Dự toán kinh phí quản lý chung nhiệm vụ KHCN cấp Bộ được tính bằng 5% tổng dự toán kinh phí thực hiện nhiệm vụ KHCN và tối đa không quá 250 triệu đồng/nhiệm vụ.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Mức chi thù lao cho chủ nhiệm nhiệm vụ khoa học và công nghệ cấp Bộ tối đa không quá 30.000.000 đồng/người/tháng.",
+                "answer": "Đúng"
+            },
+            {
+                "question": "Hãy giải thích chi tiết quy trình đề xuất đặt hàng nhiệm vụ KHCN cấp bộ theo Thông tư số /2025/TT-BNNMT, bao gồm các bước chính, yêu cầu hệ thống quản lý và cách xử lý sự cố kỹ thuật.",
+                "answer": "Theo Thông tư số /2025/TT-BNNMT, quy trình đề xuất đặt hàng nhiệm vụ KHCN cấp bộ được quy định tại Điều 8 và 9. Các bước chính bao gồm: (1) Các tổ chức, cá nhân đề xuất đặt hàng thông qua Hệ thống quản lý KHCN của Bộ (https://khcn.monre.gov.vn), sử dụng phiếu đề xuất theo Mẫu 02 cho đề tài, Mẫu 03 cho dự án SXTN, Mẫu 04 cho đề án. Đề xuất phải đáp ứng yêu cầu tại Điều 7 như tính cấp thiết, không trùng lặp, không vi phạm sở hữu trí tuệ. (2) Trong trường hợp hệ thống gặp sự cố kỹ thuật, gửi qua Hệ thống quản lý văn bản và hồ sơ điện tử của Bộ. (3) Vụ Khoa học và Công nghệ tổng hợp, trình Hội đồng tư vấn xác định nhiệm vụ để đánh giá theo Biên bản họp (Mẫu 08). (4) Dựa trên biên bản, Vụ Khoa học và Công nghệ tổng hợp trình Lãnh đạo Bộ phê duyệt danh mục (Mẫu 09) và thông báo tuyển chọn, giao trực tiếp trên hệ thống, với thời gian nhận hồ sơ tối thiểu 30 ngày. Quy trình đảm bảo minh bạch, sử dụng công nghệ số, và xử lý linh hoạt sự cố để tránh gián đoạn."
+            },
+            {
+                "question": "Mô tả đầy đủ về thành phần, nguyên tắc làm việc và trình tự họp của Hội đồng tư vấn xác định nhiệm vụ KHCN cấp bộ theo Thông tư, kèm ví dụ về trường hợp không được tham gia.",
+                "answer": "Theo Điều 5 và 6 của Thông tư số /2025/TT-BNNMT, Hội đồng tư vấn có 07 thành viên bao gồm Chủ tịch, Phó Chủ tịch, ủy viên, Thư ký khoa học và Thư ký hành chính; thành viên là nhà quản lý, nhà khoa học, chuyên gia, đại diện hiệp hội, doanh nghiệp có chuyên môn phù hợp. Đối với hội đồng tuyển chọn, điều chỉnh, nghiệm thu có ủy viên phản biện. Nguyên tắc làm việc: tập trung dân chủ, tuân thủ đạo đức nghề nghiệp, độc lập, trung thực, khách quan, khoa học, liêm chính khoa học; kết luận thông qua khi ít nhất 3/4 thành viên dự họp nhất trí. Trình tự họp: (1) Tài liệu cập nhật trên hệ thống trước 03 ngày. (2) Họp trực tiếp, trực tuyến hoặc kết hợp, với ít nhất 2/3 thành viên tham gia. (3) Thư ký hành chính công bố quyết định, Chủ tịch điều hành, Thư ký khoa học ghi chép biên bản (Mẫu 08), thành viên đánh giá theo phiếu, công bố kết quả kiểm phiếu, kết luận biên bản. Ví dụ không được tham gia: Chủ nhiệm nhiệm vụ, cá nhân tham gia chính, người bị xử phạt vi phạm hành chính KHCN, vợ/chồng/bố mẹ/con của chủ nhiệm để tránh xung đột lợi ích."
+            },
+            {
+                "question": "So sánh mức thù lao tối đa cho chủ nhiệm và thành viên chính trong nhiệm vụ KHCN cấp bộ và cấp cơ sở theo Quyết định số /QĐ-BNNMT, đồng thời giải thích công thức tính toán và hệ số lao động khoa học.",
+                "answer": "Theo Điều 4 khoản 2 của Quyết định số /QĐ-BNNMT, mức thù lao tối đa cho chủ nhiệm cấp bộ là 30.000.000 đồng/người/tháng, cấp cơ sở là 20.000.000 đồng/người/tháng. Đối với thành viên chính và chức danh khác, không quá 0,8 lần mức chủ nhiệm, tức cấp bộ ≤ 24.000.000 đồng, cấp cơ sở ≤ 16.000.000 đồng. Sự khác biệt phản ánh quy mô và trách nhiệm lớn hơn ở cấp bộ. Hệ số lao động khoa học: Chủ nhiệm 1,0; Thành viên chính 0,8. Công thức tính thù lao chủ nhiệm: TLCN = 1,0 x DMCN x 20% x T (T: tổng thời gian tháng). Đối với nhóm chức danh: TLNCD = HCD x DMCN x ΣtNCD. Nếu không đủ tháng: TLNCD = HCD x DMCN x (Σtn/22). Dự toán dựa trên thời gian quy đổi, hội đồng xem xét phê duyệt, tổ chức chủ trì quyết định thanh toán phù hợp thực tế."
+            },
+            {
+                "question": "Giải thích quy trình điều chỉnh nhiệm vụ KHCN cấp bộ theo Thông tư số /2025/TT-BNNMT, bao gồm các trường hợp được phép và không được phép, thời hạn, và thẩm quyền quyết định.",
+                "answer": "Theo Điều 15 của Thông tư số /2025/TT-BNNMT, quy trình điều chỉnh: (1) Tổ chức chủ trì gửi đề nghị đến Vụ Khoa học và Công nghệ hoặc Bộ tùy nội dung. (2) Trường hợp được phép: Điều chỉnh thời gian (trước kết thúc hợp đồng ít nhất 30 ngày, không quá 12 tháng cho nhiệm vụ ≥24 tháng), thay đổi chủ nhiệm (công tác dài hạn >6 tháng, ốm đau, đề nghị thay đổi), thay đổi thành viên chính nếu vi phạm. (3) Không được phép: Điều chỉnh phương thức khoán sản phẩm cuối cùng, thay đổi làm biến đổi mục tiêu cốt lõi. (4) Bộ quyết định điều chỉnh lớn (tên, mục tiêu, nội dung, sản phẩm, kinh phí); Vụ Khoa học và Công nghệ xử lý nhỏ (thời gian, tổ chức chủ trì). Thời hạn: Điều chỉnh thời gian chỉ xem xét trước 30 ngày kết thúc; tổ chức chủ trì tự điều chỉnh một số nội dung nhỏ không cần phê duyệt, đảm bảo báo cáo kịp thời."
+            },
+            {
+                "question": "Hãy liệt kê và mô tả chi tiết các loại hình thức họp được phép sử dụng trong quản lý nhiệm vụ KHCN theo Thông tư số /2025/TT-BNNMT, kèm ví dụ ứng dụng và điều kiện tổ chức.",
+                "answer": "Theo Điều 6 của Thông tư số /2025/TT-BNNMT, hình thức họp: (1) Họp trực tiếp: Thành viên gặp mặt tại địa điểm, phù hợp phiên họp quan trọng như nghiệm thu để thảo luận sâu. Ví dụ: Hội đồng tư vấn tuyển chọn họp trực tiếp đánh giá hồ sơ. (2) Họp trực tuyến: Qua môi trường internet, tiết kiệm chi phí, thời gian. Ví dụ: Kiểm tra tiến độ nhiệm vụ giữa Vụ Khoa học và Công nghệ với tổ chức chủ trì qua nền tảng trực tuyến. (3) Họp trực tiếp kết hợp trực tuyến: Kết hợp cả hai, linh hoạt. Ví dụ: Chủ tịch và thư ký họp trực tiếp, thành viên xa tham gia trực tuyến. Điều kiện: Ít nhất 2/3 thành viên tham gia, có Chủ tịch/Phó Chủ tịch và Thư ký khoa học; tài liệu cập nhật trước 03 ngày trên hệ thống; không cho phép họp kín không tuân thủ minh bạch."
+            },
+            {
+                "question": "Theo Quyết định số /QĐ-BNNMT và Thông tư số /2025/TT-BNNMT, quy trình nghiệm thu nhiệm vụ KHCN cấp bộ diễn ra như thế nào? Hãy mô tả từng bước, yêu cầu hồ sơ, thời hạn và thẩm quyền.",
+                "answer": "Quy trình nghiệm thu theo Điều 18 của Thông tư số /2025/TT-BNNMT và định mức chi tại Quyết định số /QĐ-BNNMT: (1) Tổ chức chủ trì nộp hồ sơ trong 30 ngày sau kết thúc hợp đồng/gia hạn, bao gồm công văn đề nghị, báo cáo đánh giá, báo cáo tổng kết, báo cáo tóm tắt (Mẫu 43), sản phẩm. (2) Vụ Khoa học và Công nghệ kiểm tra, trình Bộ thành lập Hội đồng (Điều 5,6). (3) Phiên họp trong 30 ngày sau quyết định, theo nguyên tắc độc lập, khách quan; chi thù lao theo khoản 10 Điều 4 Quyết định (Chủ tịch 1.600.000 đồng/buổi cấp bộ). (4) Hội đồng xếp loại (Đạt/Không đạt) dựa điểm, gửi biên bản. (5) Hoàn thiện hồ sơ theo ý kiến trong 10 ngày nếu Đạt, gửi Vụ Khoa học và Công nghệ. (6) Vụ trình Bộ công nhận kết quả, thanh lý hợp đồng sau kiểm kê tài sản. Thẩm quyền: Bộ quyết định thành lập hội đồng, Vụ quản lý quy trình."
+            },
+            {
+                "question": "Phân tích hậu quả của việc nhiệm vụ KHCN bị đánh giá 'Không đạt' theo Thông tư số /2025/TT-BNNMT, cách xử lý kinh phí, và biện pháp khắc phục cho tổ chức chủ trì.",
+                "answer": "Theo Điều 19 của Thông tư số /2025/TT-BNNMT, hậu quả 'Không đạt': (1) Tổ chức chủ trì và chủ nhiệm không đủ điều kiện đăng ký nhiệm vụ mới. (2) Hoàn trả toàn bộ/một phần kinh phí ngân sách, tùy vi phạm. (3) Có thể kỷ luật nếu gian lận. Xử lý kinh phí: Báo cáo sử dụng kinh phí, kiểm kê tài sản bàn giao Bộ; quyết toán theo Luật Ngân sách. Biện pháp khắc phục: Đề nghị kiểm tra lại nếu bằng chứng mới; cải thiện tuân thủ mục tiêu, sản phẩm; tổ chức chủ trì xác định mức thu hồi với bên liên quan, nộp hoàn trả ngân sách. Đảm bảo báo cáo ứng dụng, đăng ký lưu giữ kết quả theo Thông tư 14/2014/TT-BKHCN để tránh lặp lại."
+            },
+            {
+                "question": "Hãy giải thích vai trò của Vụ Khoa học và Công nghệ trong toàn bộ quy trình quản lý nhiệm vụ KHCN cấp bộ theo Thông tư số /2025/TT-BNNMT, từ đề xuất đến nghiệm thu, với các ví dụ cụ thể và phối hợp với các đơn vị khác.",
+                "answer": "Theo Điều 26 của Thông tư số /2025/TT-BNNMT, Vụ Khoa học và Công nghệ: (1) Chủ trì phổ biến, hướng dẫn; tổng hợp đề xuất đặt hàng từ hệ thống, kiểm tra hồ sơ hợp lệ trong 2 ngày. Ví dụ: Xử lý phiếu đề xuất (Mẫu 02). (2) Thẩm định nội dung, dự toán với Vụ Kế hoạch-Tài chính, trình phê duyệt. (3) Phê duyệt thuyết minh, ký hợp đồng với đơn vị dự toán. (4) Trình phê duyệt danh mục, tuyển chọn/giao trực tiếp. Ví dụ: Thông báo kết quả trong 15 ngày. (5) Điều chỉnh nhiệm vụ với Vụ Kế hoạch-Tài chính. (6) Kiểm tra đánh giá hàng năm, trình công nhận kết quả. (7) Thanh lý hợp đồng. Phối hợp: Với Cục Chuyển đổi số về thông tin, công bố; Vụ Kế hoạch-Tài chính về tài chính; Cục quản lý chuyên ngành về ứng dụng kết quả."
+            },
+            {
+                "question": "Theo Quyết định số /QĐ-BNNMT, việc thuê chuyên gia trong nước và nước ngoài cho nhiệm vụ KHCN cấp bộ có sự khác biệt gì? Hãy so sánh mức chi, giới hạn kinh phí, yêu cầu thuyết minh và trường hợp đặc biệt.",
+                "answer": "Theo Điều 4 khoản 5 của Quyết định số /QĐ-BNNMT, thuê chuyên gia trong nước: Mức chi bậc I ≤30.000.000 đồng/tháng (từ 01/7/2025 ≤55.000.000), bậc II ≤20.000.000 (≤40.000.000), bậc III ≤15.000.000 (≤30.000.000); tổng ≤30% dự toán thù lao. Thuê nước ngoài: Không mức cụ thể, thủ trưởng chịu trách nhiệm; tổng ≤50% dự toán thù lao. Yêu cầu thuyết minh: Cả hai cần rõ cần thiết, kết quả; nước ngoài chi tiết hơn về tiêu chí đánh giá, biên bản thương thảo. Trường hợp đặc biệt: Vượt mức, tổ chức chủ trì lập dự toán trình cơ quan thẩm quyền quyết định. Chọn chuyên gia từ cơ sở dữ liệu Bộ, theo Điều 7 Thông tư 02/2023/TT-BKHCN."
+            },
+            {
+                "question": "Mô tả quy trình chấm dứt hợp đồng thực hiện nhiệm vụ KHCN cấp bộ trước thời hạn theo Thông tư số /2025/TT-BNNMT, bao gồm các trường hợp, hồ sơ cần thiết, hậu quả và cách xử lý tài sản.",
+                "answer": "Theo Điều 17 của Thông tư số /2025/TT-BNNMT, quy trình chấm dứt: (1) Trường hợp: Đồng ý hai bên; đình chỉ tổ chức chủ trì; không nộp hồ sơ nghiệm thu; vi phạm nghiêm trọng. (2) Hồ sơ: Văn bản giải trình tổ chức chủ trì, hợp đồng/thuyết minh ký, báo cáo tiến độ/sản phẩm/sử dụng kinh phí. (3) Vụ Khoa học và Công nghệ xem xét, trình Bộ quyết định. (4) Hậu quả: Hoàn trả kinh phí chưa dùng, kiểm kê tài sản bàn giao; không đủ điều kiện nhiệm vụ mới; công khai nếu cần. Xử lý tài sản: Theo Nghị định 70/2018/NĐ-CP, quản lý/sử dụng theo pháp luật sở hữu trí tuệ. Ví dụ: Nếu vi phạm, dẫn đến thanh tra, thu hồi kinh phí đầy đủ."
+            }
+        ]
+    }
+]
